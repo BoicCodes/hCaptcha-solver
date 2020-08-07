@@ -10,4 +10,4 @@ This is in no way perfect, and i know there is an more efficient way of doing it
 
 Credit to [NotVerdict](https://github.com/notverdict) cuz we created it together lol.
 
-https://github.com/notverdict/hCaptcha-Solver/raw/master/screenshot.png
+![alt text](https://github.com/notverdict/hCaptcha-Solver/raw/master/screenshot.png)
